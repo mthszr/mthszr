@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on creating games with Pygame
+- 🌱 I’m currently learning Game Development
 
 ###
 
