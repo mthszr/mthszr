@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently exploring Node.js fundamentals and deepening my understanding of backend development.
+- 🔭 I’m currently exploring Node.js and deepening my understanding of backend development.
 - 🌱 I’m learning React.js to build interactive user interfaces and using Node.js to create efficient server-side applications. I'm excited to improve my full-stack development skills and work on real-world projects!
 
 ###
