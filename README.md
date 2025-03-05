@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently exploring Node.js and deepening my understanding of backend development.
-- 🌱 I’m learning React.js to build interactive user interfaces and using Node.js to create efficient server-side applications. I'm excited to improve my full-stack development skills and work on real-world projects!
+- 🔭 I’m currently diving into Node.js and TypeScript to build robust APIs and deepening my understanding of backend development.
+- 🌱 I’m expanding my front-end skills with React.js and modern CSS techniques, crafting responsive interfaces and innovative designs.
+- 🚀 I’m also exploring algorithm challenges, game development with Python, and even low-level programming, fueling my full-stack and systems programming journey.
 
 ###
 
