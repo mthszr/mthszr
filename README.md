@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> 
 
 - 🔭 I’m currently diving into Node.js and TypeScript to build robust APIs and deepening my understanding of backend development.
 - 🌱 I’m expanding my front-end skills with React.js and modern CSS techniques, crafting responsive interfaces and innovative designs.
